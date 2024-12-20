@@ -21,7 +21,7 @@ keyboard_layout: last
 # for veteran chord-typist
 chord_duration: 0.1  # seconds
 # options: always | never | appropriate
-show_notifications_when: appropriate
+show_notifications_when: never
 
 
 # ascii_mode、inline、no_inline、vim_mode 等等设定
